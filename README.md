@@ -1,2 +1,2 @@
-# Smac_javaproject
-course java programming 
+# Project: a Simple MAth Calculator (SMAC)
+java programming 
