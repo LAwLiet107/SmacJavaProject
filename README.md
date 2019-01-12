@@ -1,2 +1,2 @@
 # Project: a Simple MAth Calculator (SMAC)
-java programming 
+Please read project.pdf
